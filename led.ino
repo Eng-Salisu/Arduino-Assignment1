@@ -30,7 +30,7 @@ void setup() {
     // Blink LED according to current counter value
     flashLED(count);
 
-    delay(5000);
+    delay(1000);
     count--;
   }
 
